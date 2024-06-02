@@ -56,7 +56,7 @@ const CreateUser = () => {
       <div className="HomePage">
         <div className="homecontent">
           <div className="headingCreateUser">
-            <h1 style={{ margin: "0", padding: "0" }}>Add New Users</h1>
+            <h1 style={{ margin: "0", padding: "0" }}>Add New user</h1>
             <Link to='/'>
               <IoMdCloseCircle style={{ height: "50px", width: "50px", color: "red", cursor: "pointer" }} />
             </Link>
