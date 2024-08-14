@@ -4,7 +4,7 @@ export default function Navbar() {
      
   return (
     <>
-      <p style={{color:"white", textAlign:"center",margin:"0", backgroundColor:"black"}}>Create by Aadil khan</p>
+      <p style={{color:"white", textAlign:"center",margin:"0", backgroundColor:"black"}}>Create MOHD AZAM</p>
     </>
   )
 }
